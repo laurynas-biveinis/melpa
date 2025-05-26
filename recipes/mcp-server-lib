@@ -1,0 +1,6 @@
+(mcp-server-lib
+ :fetcher github
+ :repo "laurynas-biveinis/mcp-server-lib.el"
+ :commit "8eb757b552026aab6823369f6e9b86e62f094633"
+ :files ("*.el" "emacs-mcp-stdio.sh"
+         (:exclude ".dir-locals.el" "*-test*.el")))
